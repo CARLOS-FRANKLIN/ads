@@ -10,8 +10,8 @@
     },
     "ADMOB" : {
       "Admob_Banner_Id" : "ca-app-pub-3940256099942544/6300978111",
-      "Admob_Interstitial_Id" : "ca-app-pub-3940256099942544/1033173712",
-      "Admob_Native_Id" : "ca-app-pub-3940256099942544/2247696110"
+      "Admob_Interstitial_Id" : "",
+      "Admob_Native_Id" : ""
     },
 	"IRONSOURCE" : {
       "AppKey" : "14faef1f1"
